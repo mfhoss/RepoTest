@@ -1,15 +1,3 @@
-Testfile1 for initial Test
+This is my Test branch from Azad
 
-
-master - HelloWorld azad admin protective
-
-
-Siraj is a developer
-
-Master 1.2 Test Stage Prod
-
-Arrow down Pull
-Arrow Up Push
-
-Dev  Local 1.2
 
